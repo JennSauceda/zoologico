@@ -1,0 +1,78 @@
+body {
+    background: url(1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    height: 100vh;
+
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 97.9%;
+    margin: 0;
+    padding: 0;
+}
+
+.contenido {
+    margin-top: 50px;
+    display: flex;
+
+    flex-direction: column;
+    width: 90%;
+    height: 200px;
+    flex-wrap: nowrap;
+    align-items: center;
+    background-color: rgba(27, 66, 29, 0.692);
+    padding: 5%;
+    justify-content: space-around;
+}
+
+.cont-menu {
+    display: flex;
+
+}
+
+/* Estilos
+
+        /* Estilos CSS para personalizar la apariencia */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #358029;
+    color: #4bea32;
+    padding: 20px;
+    text-align: center;
+}
+
+nav {
+    background-color: #216317;
+    color: #fff;
+    padding: px;
+    text-align: center;
+    font-size: 200%;
+}
+
+nav a {
+    color: #4bea32;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+footer {
+    background-color: #358029;
+    color: #fff;
+    padding: 0;
+    text-align: center;
+}
+
+nav a:hover {
+    color: black;
+
+}
+
